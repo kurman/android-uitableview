@@ -2,9 +2,9 @@
 <resources>
     
     <declare-styleable name="UIButton">
-	    <attr name="title" format="string" />
-	    <attr name="subtitle" format="string" />
-	    <attr name="image" format="integer" />
+	    <attr name="ui_button_title" format="string" />
+	    <attr name="ui_button_subtitle" format="string" />
+	    <attr name="ui_button_image" format="integer" />
   	</declare-styleable>
   
 </resources>
